@@ -48,6 +48,6 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakapi.typed.icu
+          plugin_wakatime_url: https://wakapi.torus.icu
           plugin_wakatime_user: berberman
           plugin_wakatime_token: ${{ secrets.WAKAPI_KEY }}
