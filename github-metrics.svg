@@ -1326,7 +1326,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">nix-lang</span>
-                                <div class="bar" style="width: 5.207999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.215999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
@@ -1356,7 +1356,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">unknown</span>
-                                <div class="bar" style="width: 29.287999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 29.296%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">37%</span>
                             </div>
                             <div class="entry">
@@ -1366,7 +1366,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Nix</span>
-                                <div class="bar" style="width: 13.431999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.415999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
@@ -1385,7 +1385,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2024, 21:53:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2024, 22:26:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
