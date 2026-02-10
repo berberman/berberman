@@ -1345,6 +1345,11 @@
                                 <div class="bar" style="width: 2.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
+                            <div class="entry">
+                                <span class="name">flakes</span>
+                                <div class="bar" style="width: 1.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1381,7 +1386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2026, 01:06:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Feb 2026, 02:53:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
